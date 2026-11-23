@@ -1,2 +1,3 @@
 # niteshpatel.demo
-This is my first Git repository
+This is my  Git repository
+Author-Nitesh Patel
